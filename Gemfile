@@ -2,8 +2,8 @@ source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.1', '>= 4.1.1'
 gem 'bundler'
-gem 'kramdown'
-gem 'rack-jekyll'
+gem 'kramdown', '>= 2.3.1'
+gem 'rack-jekyll', '>= 0.5.0'
 gem 'rake'
 gem 'puma'
 
