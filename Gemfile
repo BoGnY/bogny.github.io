@@ -5,7 +5,7 @@ gem 'bundler'
 gem 'kramdown'
 gem 'rack-jekyll'
 gem 'rake'
-gem 'puma'
+gem 'puma', '>= 5.6.2'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
